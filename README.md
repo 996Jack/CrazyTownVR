@@ -1,5 +1,4 @@
-# Crazy Town VR
-<h1 align="center">Codename-PDG</h1>
+<h1 align="center">Crazy Town VR</h1>
 <p align="center">
     <a href="LICENSE">
         <img src="https://img.shields.io/github/license/996Jack/CrazyTownVR?label=License">
