@@ -1,10 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.25",
+	"EngineAssociation": "5.2",
 	"Category": "",
 	"Description": "",
 	"TargetPlatforms": [
 		"PS4",
-		"WindowsNoEditor"
+		"WindowsNoEditor",
+		"HoloLens",
+		"Windows",
+		"Mac"
 	]
 }
