@@ -19,6 +19,7 @@
 </p>
 The official GitHub repository for Crazy Town VR.
 
+### ***THIS GAME IS NO LONGER MAINTAINED***
 ### Code
 All code can be viewed in Unreal Engine 4. It may be compatible with Unreal Engine 5, but I am unsure.
 
